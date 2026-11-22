@@ -28,6 +28,11 @@ Un espace administrateur permet de gérer le stock, les remises, les clients et 
 - **DAO + JDBC** : accès à la base de données MySQL
 - Interface graphique en **Java Swing**
 
+<p align="center">
+  <img src="modele_relationnel.png" alt="Le modèle relationnel" width="450">
+</p>
+
+
 ## Lancer le projet
 
 1. Créer la base de données MySQL avec le script shopping.sql
