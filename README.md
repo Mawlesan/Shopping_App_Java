@@ -29,7 +29,7 @@ Un espace administrateur permet de gérer le stock, les remises, les clients et 
 - Interface graphique en **Java Swing**
 
 <p align="center">
-  <img src="modele_relationnel.png" alt="Le modèle relationnel" width="450">
+  <img src="modele_relationnel.png" alt="Le modèle relationnel" width="750">
 </p>
 
 
